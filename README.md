@@ -1,5 +1,5 @@
 ---
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Le Hai Dang</h1>
+<h1 align="center">Hi <img src="" width="30px">, I'm Le Hai Dang</h1>
 <p align="center">
   <a href="#"></a>
 </p>
@@ -23,4 +23,3 @@
    <a href="https://github.com/lehaidangzdin">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <br>
