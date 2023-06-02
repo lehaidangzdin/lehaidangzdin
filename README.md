@@ -1,16 +1,36 @@
-### Hi there 👋
+# <Tên của bạn>
 
-<!--
-**lehaidangzdin/lehaidangzdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Xin chào! 👋
 
-Here are some ideas to get you started:
+Tôi là <Tên của bạn>, một <Vai trò của bạn> đam mê về <Lĩnh vực quan tâm chính>. Tôi thích khám phá và học hỏi những thứ mới, và luôn tìm kiếm cơ hội để áp dụng kiến thức của mình để tạo ra những giải pháp sáng tạo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kỹ năng
+
+- <Kỹ năng 1>: Mô tả về kỹ năng của bạn
+- <Kỹ năng 2>: Mô tả về kỹ năng của bạn
+- <Kỹ năng 3>: Mô tả về kỹ năng của bạn
+
+## Dự án
+
+### <Tên dự án 1>
+
+Mô tả ngắn về dự án và công contributions/đóng góp của bạn trong dự án này.
+
+### <Tên dự án 2>
+
+Mô tả ngắn về dự án và công contributions/đóng góp của bạn trong dự án này.
+
+## Học vấn
+
+- <Bằng cấp 1>: Tên bằng cấp, tên trường đại học (nếu có)
+- <Bằng cấp 2>: Tên bằng cấp, tên trường đại học (nếu có)
+
+## Liên hệ
+
+- Email: <địa chỉ email của bạn>
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- Website: [yourwebsite.com](https://www.yourwebsite.com)
+- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
+Nếu bạn muốn liên hệ hoặc muốn biết thêm thông tin về tôi, hãy liên hệ qua email hoặc kết nối với tôi trên LinkedIn. Tôi rất mong được nghe từ bạn!
+
