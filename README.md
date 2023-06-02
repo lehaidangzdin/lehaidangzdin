@@ -1,9 +1,8 @@
 ---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Le Hai Dang</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"></a>
+  <a href="#"></a>
 </p>
-
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
