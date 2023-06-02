@@ -8,7 +8,7 @@
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
+<!-- - 💡 Contributing to Open Source Projects is always been a goal to me. -->
 - ⚡ Fun fact: I love Sports, especially Cricket.
 <br>
 ---
